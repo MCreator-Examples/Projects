@@ -1,6 +1,6 @@
 name: Tutorial Request
 description: Suggest a tutorial for MCreator for me to cover.
-labels: Tutorial Request
+labels: tutorial
 body:
  - type: textarea
    attributes:
