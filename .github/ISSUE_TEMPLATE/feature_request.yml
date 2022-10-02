@@ -1,0 +1,41 @@
+name: Tutorial Request
+description: Suggest a tutorial for MCreator for me to cover.
+labels: Tutorial Request
+body:
+ - type: textarea
+   attributes:
+    label: Feature overview
+    description: Use this text box to give a quick description of what you want to see made.
+    placeholder: Your overview
+   validations:
+    required: true
+ - type: textarea
+   attributes:
+    label: Feature checklist
+    description: Make a checklist on things that this feature should have support for.
+    placeholder: |
+      1. The block proviced less energy when its raining.
+      2. The block can be struck by lightning.
+      3. ...
+   validations:
+     required: true
+ - type: textarea
+   attributes:
+    label: Files and Sources
+    description: Upload files (images or .zip files)
+    placeholder: |
+      1. Use this to help explain your suggestion.
+      2. Or use this to share MCreator workspaces and or procedures you have made that you want a tutorial made from.
+      3. Drag and drop the file over this box to upload it to this Request.
+   validations:
+     required: false
+ - type: checkboxes
+   attributes:
+    label: BEFORE YOU POST! Please do the following.
+    options:
+     - label: "I have looked if the feature as been requested already on the issue tab and could not find a similar issue."
+       required: true
+     - label: "I have have searched NorthWestTrees Gaming's MCreator Playlists and could not find the feature I want"
+       required: true
+     - label: "I understand that not all things are possible and that the tutorial may not be made any time soon or at all"
+       required: true
