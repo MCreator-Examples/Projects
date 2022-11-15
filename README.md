@@ -16,7 +16,5 @@ We have categories (Building, Features, and Procedures) where we publish our dow
 - [Procedure Projects](https://github.com/MCreator-Examples/Projects/discussions/categories/-procedure-projects)
 
 ## Tutorial Suggestions
-You can suggest a idea for a tutorial on the issue tracker.  
-Fill out the issue template to help me better understand what you have in mind.  
-Provide lots of information to better explain what you are looking for.  
-- [Tutorial Request](https://github.com/MCreator-Examples/Projects/issues/new?assignees=&labels=tutorial&template=feature_request.yml)
+You can share your suggestion here on the Feedback repository.
+- [Tutorial Request](https://github.com/MCreator-Examples/Feedback)
