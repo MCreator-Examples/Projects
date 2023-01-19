@@ -11,9 +11,10 @@ This is not an official repository of PYLO or MCreator and is maintained by Nort
 ## Project Pages & Downloads
 You can find project downloads under the discussions tab of this repository.  
 We have categories (Building, Features, and Procedures) where we publish our downloads.
-- [Building Projects](https://github.com/MCreator-Examples/Projects/discussions/categories/-building-projects)
-- [Feature Projects](https://github.com/MCreator-Examples/Projects/discussions/categories/-feature-projects)
-- [Procedure Projects](https://github.com/MCreator-Examples/Projects/discussions/categories/-procedure-projects)
+- 🟥 [Asset Projects](https://github.com/MCreator-Examples/Projects/discussions/categories/-asset-projects)
+- 🟧 [Building Projects](https://github.com/MCreator-Examples/Projects/discussions/categories/-building-projects)
+- 🟨 [Feature Projects](https://github.com/MCreator-Examples/Projects/discussions/categories/-feature-projects)
+- 🟩 [Procedure Projects](https://github.com/MCreator-Examples/Projects/discussions/categories/-procedure-projects)
 
 ## Tutorial Suggestions
 You can share your suggestion here on the Feedback repository.
