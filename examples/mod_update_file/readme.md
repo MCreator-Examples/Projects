@@ -82,7 +82,7 @@ After you have changed the file you can view the file and click the "Raw" button
 Once you are on this page copy the page URL and paste it into your MCreator update JSON section in your mod settings.  
   
 Your URL should look like something below.  
-"https://raw.githubusercontent.com/northwesttrees-gaming/CCTV-Craft/main/updates.json"  
+"https://raw.githubusercontent.com/MCreator-Examples/Projects/main/examples/mod_update_file/updates.json"  
 
 # Full Example
 A full example can be found below of the code parts used in this tutorial.
