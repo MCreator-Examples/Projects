@@ -1,0 +1,23 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/cctv-craft",
+  "1.20.1": {
+    "1.4.1": "Fixed an issue with spawn rates for the entities.",
+    "1.4.0": "Ported the modification\nAdded river plans\nAdded New 3 new entities Ox, Deers, and Boars"
+  },
+  "1.19.4": {
+    "1.3.0": "Added grappling hook\nAdded flax crops\nAdded blue mushrooms to caves",
+    "1.2.0": "Added 5 new biomes\nAdded pine, maple, yew, cedar trees",
+    "1.1.0": "Ported the modification\nAdded custom dimension called Blue Skys\nAdded flares sticks"
+  },
+  "1.19.2": {
+    "1.0.0": "Added limeston\nAdded Rocky Dirt\nAdded Healing Water"
+  },
+  "promos": {
+    "1.20.1-latest": "1.4.1",
+    "1.20.1-recommended": "1.6.1",
+    "1.19.4-latest": "1.3.0",
+    "1.19.4-recommended": "1.3.0",
+    "1.19.2-latest": "1.0.0",
+    "1.19.2-recommended": "1.0.0"
+  }
+}
