@@ -23,3 +23,9 @@ You can share your suggestions here on the Feedback repository.
 - [Tutorial Request](https://github.com/MCreator-Examples/Feedback)
 
 # News & Updates
+## November 13th, 2023 - Workspace Issues With 1.20.X And Above
+> In some cases, the workspace may break when porting versions equal to or higher than 1.20. This is due to Mojang removing support for being able to test for the block's material type.   
+>   
+> Due to this change, MCreator had to also drop support as this was not a feature in newer versions of the game. With this said I have opened a forum post on my website [northwesttreesgaming.com](https://www.northwesttreesgaming.com/forum/mcreator/report-broken-workspaces-for-1-20-1) so that you can let me know of any broken workspaces.  
+>   
+> Keep in mind that I will only be fixing the latest version of projects as I don't have the time to update older workspaces that may have other issues with newer versions of the game. You can find more information on the forum post listed above.
