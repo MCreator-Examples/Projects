@@ -9,6 +9,10 @@ This repository is not associated with Pylo or MCreator but does provide useful 
 You can find documents and charts I have made in the /documents folder in the code window.
 - [Document Folder](https://github.com/MCreator-Examples/Projects/tree/main/Documents)
 
+# Texture Templates
+You can find a full list of texture templates here for vanilla models such as banner patterns.
+- [Templates Folder](https://github.com/MCreator-Examples/Projects/tree/main/templates)
+
 # Project File Categories
 You can find project downloads under the discussions tab of this repository.  
 We have categories (Assets, Building, Data Pack, Features, and Procedures) where we publish our downloads.
